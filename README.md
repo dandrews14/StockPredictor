@@ -1,4 +1,4 @@
-# stockTrader
+# Stock Predictor
 
 A simple daily script that can estimate how stocks will perform over the next few days.
 
