@@ -10,7 +10,9 @@ A simple daily script that can estimate how stocks will perform over the next fe
 
 ## Instructions:
 
-#### To run: *python ./<script_name>*
+To run: *python ./<script_name>*
+
+## Additional Information:
 
 * Scripts can be found in the "scripts" directory. Scripts can be used individually or run using "run_all.py"
 * Each script generally use three indicators to generate score: Simple Moving Average (SMA), Bollinger Bands (BBP), and the Volatility.
