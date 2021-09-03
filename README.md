@@ -1,6 +1,6 @@
 # stockTrader
 
-A simple daily script that can estimate which stocks will perform well over the next few days.
+A simple daily script that can estimate how stocks will perform over the next few days.
 
 ## Necesssary Packages:
 * Pandas
